@@ -1,5 +1,7 @@
 # Connor Hynes
 
+![image](/assets/img/profile.jpg)
+
 hynes24@uw.edu
 
 
@@ -28,15 +30,14 @@ Marketing/Event Planning Internship – Vulure Swimwear (Apr 2018 – Jul 2018)
 
 ## University of Washington (Seattle, WA)
 
-*The University of Washington is a public research university in Seattle, Washington.*
+>*The University of Washington is a public research university in Seattle, Washington.*
 
 *Bachelors of Geographic Data Science* (2017 - 2021)
 
-Summary of your role
+**University Experience**
 
 - **Prototyped** a food recipe/delivery application to combat food waste, high prices, and unhealthy eatingwith original market research, with the consultation of an Amazon employee.
 - **Built** a variety of programs with a focus on object-oriented design and algorithmic logic throughthe computer science courses offered at the University of Washington.
 - **Created** an extensive portfolio in the Informatics study, analyzing the field of technology and the rolediversity plays within it, which reflected advanced understanding of workplace environments,appropriate communication, and various tech fields.
 
-
-[University of Washington]: https://www.washington.edu/
+University of Washington: https://www.washington.edu/
